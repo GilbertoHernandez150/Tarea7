@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Tarea7.bundle.scp.css"
     },
     {
+      "Id": "C:\\WebMia\\Tarea7\\wwwroot\\Images\\Mifoto.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mifoto.jpg"
+    },
+    {
       "Id": "C:\\WebMia\\Tarea7\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
